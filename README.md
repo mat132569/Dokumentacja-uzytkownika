@@ -13,7 +13,7 @@ Kalkulator liczacy proste oraz skomplikowane dzialania matematyczne z wykorzysta
 2.2. Opis notacji stosowanej w dokumentacji. 
 2.3. Dokładne sformułowanie problemu. 
 2.4. Przegląd zastosowań programu. 
-3. Środowisko programu
+###3. Środowisko programu
 3.1. Dane wejściowe (znaczenie, format, sposób wprowadzania, warunki poprawności, reakcja na błędy w 
 danych). 
 3.2. Komunikacja z użytkownikiem (jw.) 
