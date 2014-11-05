@@ -1,10 +1,14 @@
 Dokumentacja-uzytkownika
 ========================
 ###1. Informacje ogólne
-1.1. Autor, data opracowania podręcznika. 
-1.2. Krótki opis programu. 
-1.3. Spis treści. 
-2. Charakterystyka problemu
+Zasady uzytkowania oraz sposob dzialania kalkulatora firmy Microsoft.
+##1.1. Autor, data opracowania podręcznika.
+Materna Mateusz, 5 Listopad 2014r.
+##1.2. Krótki opis programu. 
+Kalkulator liczacy proste oraz skomplikowane dzialania matematyczne z wykorzystaniem wbudowanych funkcji.
+##1.3. Spis treści. 
+
+###2. Charakterystyka problemu
 2.1. Teoretyczne wprowadzenie. 
 2.2. Opis notacji stosowanej w dokumentacji. 
 2.3. Dokładne sformułowanie problemu. 
